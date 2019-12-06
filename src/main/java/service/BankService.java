@@ -59,7 +59,7 @@ public class BankService {
     }
 
     /**
-     * Prints the account history by status
+     * Prints the account history
      */
     public void printAccountHistory() {
         //display account name and number
