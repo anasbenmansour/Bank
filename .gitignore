@@ -1,0 +1,8 @@
+# IDEs and editors
+/.idea
+
+## ignoring target file
+target/
+
+local.properties
+.settings/
